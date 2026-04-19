@@ -46,5 +46,3 @@ Expense analysis
 👩‍💻 Author
 
 Ishwari Belhekar
-
-Your Name
